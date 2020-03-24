@@ -9,8 +9,6 @@ var $timerButton = (function(){
           num : 6,
           title:'同意',
         };
-       
-  
     $btn.css({
       height:'50px',
       width:'150px'
